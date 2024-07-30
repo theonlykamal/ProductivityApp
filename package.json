@@ -1,7 +1,7 @@
 {
   "name": "chatapp",
   "version": "0.1.0",
-  "homepage": "https://theonlykamal.github.io/ProductivityApp/",
+  "homepage": "https://theonlykamal.github.io/ProductivityApp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.0",
